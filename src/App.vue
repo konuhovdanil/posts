@@ -59,6 +59,7 @@ export default {
 .app {
   background: #ECF1F6;
   min-height: 100vh;
+  overflow: hidden;
 }
 
 .header {
